@@ -1,8 +1,8 @@
-# Decentralized Pet Shop - Background
+# Decentralized Pet Shop
 
 This Pet Shop is a proof-of-concept designed for 16 pets. It is not meant for deploymnt on the mainchain. It is adapted from the the [Truffle Pet Shop Tutorial](https://truffleframework.com/tutorials/pet-shop).
 
-# Background
+## Background
 
 Pete Scandlon of Pete's Pet Shop is interested in using Ethereum as an efficient way to handle their pet adoptions. The store has space for 16 pets at a given time, and they already have a database of pets. As an initial proof of concept, Pete wants to see a dapp which associates an Ethereum address with a pet to be adopted.
 
@@ -13,7 +13,7 @@ The environment for this implementation relies upon:
 * Ganache GUI (v2.0.0-beta.2) / CLI (v6.2.5)
 * NPM 6.8.0
 
-### How to install:
+## How to install:
 * Truffle: ``$ npm install truffle -g``
 * Ganache: download the AppImage for GUI / CLI ``$ npm install -g ganache-cli``
 * NPM:
