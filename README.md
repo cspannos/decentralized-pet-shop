@@ -16,9 +16,9 @@ The environment for this implementation relies upon:
 ## How to install:
 * Truffle: ``$ npm install truffle -g``
 * Ganache: download the AppImage for GUI / CLI ``$ npm install -g ganache-cli``
-* NPM: ``$ sudo apt-get install curl software-properties-common``
-       ``$ curl -sL https://deb.nodesource.com/setup_11.x | sudo bash -``
-       ``$ sudo apt-get install nodejs``
+* NPM: 1. ``$ sudo apt-get install curl software-properties-common``
+       2. ``$ curl -sL https://deb.nodesource.com/setup_11.x | sudo bash -``
+       3. ``$ sudo apt-get install nodejs``
 
 To spin this implementation up on your own machine, follow these steps:
 - clone this repository: ``$ git clone https://github.com/cspannos/decentralized-pet-shop``;
